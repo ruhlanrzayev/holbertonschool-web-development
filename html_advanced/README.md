@@ -7,7 +7,7 @@ For this project, I will focus on these concepts:
 * HTML - Semantic sectioning elements
 * HTML Semantic Elements
 * HTML Validation
-* 
+  
 ![projectview](assets/image.png)
 
 
