@@ -1,5 +1,6 @@
 # HTML Advanced
 ![projectview](assets/image.png)
+
 For this project, I will focus on these concepts: 
 * Some pointers about HTML
 * HTML - elements of a web page
