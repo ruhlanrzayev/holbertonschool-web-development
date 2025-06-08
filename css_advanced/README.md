@@ -1,28 +1,10 @@
-<img  height="50px" align="right" src="../resources/images/holberton_school_logo.png" alt="Holberton School logo">
+<img  height="50px" align="right" src="../assets/images/holberton_school_logo.png" alt="Holberton School logo">
 
-# CSS, advanced
-
-<details>
-        <summary>
-		CLICK TO ENLARGE 😇
-        </summary>
-	    📄 <a href="#description">Description</a>
-        <br>
-        🎓 <a href="#objectives">Objectives</a>
-        <br>
-        📋 <a href="#requirements">Requirements</a>
-        <br>
-        📝 <a href="#instructions">Instructions</a>
-        <br>
-        🔨 <a href="#tech-stack">Tech stack</a>
-        <br>
-        📂 <a href="#files-description">Files description</a>
-</details>
+# CSS advanced
 
 ## 📄 <span id="description">Description</span>
 
 In this section, the main objective was to concentrate on the CSS and overall styling of the page. Using the HTML structure from the previous project, the task was to visually replicate the website shown in the screenshot as closely as possible by applying fundamental CSS techniques.
-
 
 
 <br>
@@ -41,13 +23,6 @@ At the end of this project, I had to be able to explain to anyone, **without the
 - How to compute CSS Specificity Value.
 - What are Box properties in CSS?
 - How does the browser load a webpage.
-
-## 📋 <span id="requirements">Requirements</span>
-
-- All my files should end with a new line.
-- A `README.md` file, at the root of the folder of the project is mandatory.
-- I am **not allowed** to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript (No NodeJS, React, VueJS, Bootstrap, etc.).
-- My code should be W3C compliant and validate with [W3C-Validator](https://validator.w3.org).
 
 ## 📝 <span id="instructions">Instructions</span>
 
@@ -229,8 +204,6 @@ It’s time to deploy it in Github, by using [Github Pages](https://pages.github
 
 <hr>
 </details>
-
-## 🔨 <span id="tech-stack">Tech stack</span>
 
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML badge" alt="HTML5 badge">
